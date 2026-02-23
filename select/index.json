@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "エイリアンズ",
+  "base_artist": "キリンジ",
+  "createdAt": "2026-02-23T05:23:22.617644Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エイリアンズ",
+      "artist": "Unchain",
+      "has_synced": true,
+      "path": "select/01_エイリアンズ_Unchain.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エイリアンズ - 2018 Remaster",
+      "artist": "KIRINJI",
+      "has_synced": true,
+      "path": "select/02_エイリアンズ_-_2018_Remaster_KIRINJI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エイリアンズ - Studio Live Ver.",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/03_エイリアンズ_-_Studio_Live_Ver._Awesome_City_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エイリアンズ",
+      "artist": "KIRINJI",
+      "has_synced": true,
+      "path": "select/04_エイリアンズ_KIRINJI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エイリアンズ (2018 Remaster)",
+      "artist": "キリンジ",
+      "has_synced": true,
+      "path": "select/05_エイリアンズ_(2018_Remaster)_キリンジ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エイリアンズ",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/06_エイリアンズ_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エイリアンズ - Aliens",
+      "artist": "KIRINJI",
+      "has_synced": true,
+      "path": "select/07_エイリアンズ_-_Aliens_KIRINJI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エイリアンズ",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/08_エイリアンズ_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エイリアンズ",
+      "artist": "Suzuki, Masayuki",
+      "has_synced": true,
+      "path": "select/09_エイリアンズ_Suzuki,_Masayuki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エイリアンズ (Live at The Room)",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/10_エイリアンズ_(Live_at_The_Room)_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "エイリアンズ(Live at The Room)",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/11_エイリアンズ(Live_at_The_Room)_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "エイリアンズ (2018 Remaster)",
+      "artist": "KIRINJI",
+      "has_synced": true,
+      "path": "select/12_エイリアンズ_(2018_Remaster)_KIRINJI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "エイリアンズ",
+      "artist": "KIRINJI",
+      "has_synced": false,
+      "path": "select/13_エイリアンズ_KIRINJI.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "エイリアンズ",
+      "artist": "キリンジ",
+      "has_synced": false,
+      "path": "select/14_エイリアンズ_キリンジ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エイリアンズ",
+      "artist": "キリンジ",
+      "has_synced": false,
+      "path": "select/pl_01_エイリアンズ_キリンジ.txt"
+    }
+  ]
+}
